@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=200&section=header&text=Abdimajid%20Abdirahman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=58&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=200&section=header&text=Abdimajid%20Abdirahman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=58&descColor=ffffff)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=FF6600&style=for-the-badge)](https://github.com/abdimajid123)
-[![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=FF6600)](https://github.com/abdimajid123)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=0d1b4b&style=for-the-badge)](https://github.com/abdimajid123)
+[![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=0d1b4b)](https://github.com/abdimajid123)
 
 </div>
 
@@ -59,14 +59,14 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdimajid123&show_icons=true&theme=dark&hide_border=true&title_color=FF6600&icon_color=FF6600&text_color=ffffff&bg_color=0d1117" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimajid123&layout=compact&theme=dark&hide_border=true&title_color=FF6600&text_color=ffffff&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdimajid123&show_icons=true&theme=dark&hide_border=true&title_color=4d79ff&icon_color=4d79ff&text_color=ffffff&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimajid123&layout=compact&theme=dark&hide_border=true&title_color=4d79ff&text_color=ffffff&bg_color=0d1117" height="170" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdimajid123&theme=dark&hide_border=true&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&background=0d1117)](https://github.com/abdimajid123)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdimajid123&theme=dark&hide_border=true&ring=4d79ff&fire=4d79ff&currStreakLabel=4d79ff&background=0d1117)](https://github.com/abdimajid123)
 
 </div>
 
@@ -88,6 +88,8 @@ Email:    abdimajidabdirahman35@gmail.com
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdimajidabdirahman35@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdimajid123)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdimajiid_abdirahman/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdimajiid.abdirahman.9)
 
 </div>
 
@@ -95,6 +97,6 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=100&section=footer)
 
 </div>
