@@ -76,8 +76,8 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdimajid123&show_icons=true&theme=dark&hide_border=true&title_color=4d79ff&icon_color=4d79ff&text_color=ffffff&bg_color=0d1117" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdimajid123&layout=compact&theme=dark&hide_border=true&title_color=4d79ff&text_color=ffffff&bg_color=0d1117" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdimajid123&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdimajid123&theme=github_dark" height="170" />
 
 </div>
 
