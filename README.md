@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=220&section=header&text=Abdimajid%20Abdirahman&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=65&descColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&colors=7b2ff7,f107a3&height=220&section=header&text=Abdimajid%20Abdirahman&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=65&descColor=ffffff&animation=fadeIn)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=0d1b4b&style=for-the-badge)](https://github.com/abdimajid123)
-[![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=0d1b4b)](https://github.com/abdimajid123)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=7b2ff7&style=for-the-badge)](https://github.com/abdimajid123)
+[![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=f107a3)](https://github.com/abdimajid123)
 
 </div>
 
@@ -34,10 +34,10 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-![Years of Experience](https://img.shields.io/badge/Years%20of%20Experience-6%2B-0d1b4b?style=for-the-badge&logo=calendar&logoColor=white)
-![Projects Built](https://img.shields.io/badge/Projects%20Built-20%2B-1a3a7a?style=for-the-badge&logo=rocket&logoColor=white)
-![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-5%2B-0d1b4b?style=for-the-badge&logo=android&logoColor=white)
-![APIs Built](https://img.shields.io/badge/APIs%20Built-10%2B-1a3a7a?style=for-the-badge&logo=server&logoColor=white)
+![Years of Experience](https://img.shields.io/badge/Years%20of%20Experience-6%2B-7b2ff7?style=for-the-badge&logo=calendar&logoColor=white)
+![Projects Built](https://img.shields.io/badge/Projects%20Built-20%2B-f107a3?style=for-the-badge&logo=rocket&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-5%2B-7b2ff7?style=for-the-badge&logo=android&logoColor=white)
+![APIs Built](https://img.shields.io/badge/APIs%20Built-10%2B-f107a3?style=for-the-badge&logo=server&logoColor=white)
 
 </div>
 
@@ -83,7 +83,7 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdimajid123&theme=dark&hide_border=true&ring=4d79ff&fire=4d79ff&currStreakLabel=4d79ff&background=0d1117)](https://github.com/abdimajid123)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdimajid123&theme=dark&hide_border=true&ring=7b2ff7&fire=f107a3&currStreakLabel=7b2ff7&background=0d1117)](https://github.com/abdimajid123)
 
 </div>
 
@@ -169,6 +169,6 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&colors=7b2ff7,f107a3&height=100&section=footer)
 
 </div>
