@@ -109,6 +109,51 @@ Email:    abdimajidabdirahman35@gmail.com
 
 ---
 
+## 💼 Work Experience
+
+<div align="center">
+
+| 🏢 Company | 💼 Role | 📅 Period |
+|-----------|---------|----------|
+| **Astaan Tech** | Full-Stack Developer | 2022 — Present |
+
+</div>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+
+![Somali](https://img.shields.io/badge/Somali-Native-0d1b4b?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-Fluent-1a3a7a?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-Professional-0d1b4b?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] 🚀 Launch **Somtaana** to production with 1000+ active drivers
+- [ ] 📱 Publish my first app to the **App Store & Google Play**
+- [ ] ☁️ Get **AWS** or **GCP** cloud certification
+- [ ] 🌍 Contribute to **open source** projects
+- [ ] 📝 Share my knowledge by writing **technical articles**
+- [ ] 🤝 Grow my network to **100+ GitHub followers**
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/abdimajid123/abdimajid123/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
