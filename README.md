@@ -28,6 +28,19 @@ Email:    abdimajidabdirahman35@gmail.com
 - 🚀 Ship production-ready scalable systems
 - 🔧 Currently building **Somtaana** — a driver dispatch & delivery platform
 
+<br/>
+
+## 📅 Experience At a Glance
+
+<div align="center">
+
+![Years of Experience](https://img.shields.io/badge/Years%20of%20Experience-6%2B-0d1b4b?style=for-the-badge&logo=calendar&logoColor=white)
+![Projects Built](https://img.shields.io/badge/Projects%20Built-20%2B-1a3a7a?style=for-the-badge&logo=rocket&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-5%2B-0d1b4b?style=for-the-badge&logo=android&logoColor=white)
+![APIs Built](https://img.shields.io/badge/APIs%20Built-10%2B-1a3a7a?style=for-the-badge&logo=server&logoColor=white)
+
+</div>
+
 ---
 
 ## 🚀 Tech Stack
@@ -67,6 +80,16 @@ Email:    abdimajidabdirahman35@gmail.com
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdimajid123&theme=dark&hide_border=true&ring=4d79ff&fire=4d79ff&currStreakLabel=4d79ff&background=0d1117)](https://github.com/abdimajid123)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Abdimajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdimajid123&theme=react-dark&hide_border=true&bg_color=0d1117&color=4d79ff&line=4d79ff&point=ffffff&area=true&area_color=0d1b4b)](https://github.com/abdimajid123)
 
 </div>
 
