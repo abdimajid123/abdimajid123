@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=200&section=header&text=Abdimajid%20Abdirahman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=58&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=220&section=header&text=Abdimajid%20Abdirahman&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=65&descColor=ffffff&animation=fadeIn)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=0d1b4b&style=for-the-badge)](https://github.com/abdimajid123)
 [![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=0d1b4b)](https://github.com/abdimajid123)
@@ -169,6 +169,6 @@ Email:    abdimajidabdirahman35@gmail.com
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,1,2,3,4&colors=0d1b4b,1a3a7a&height=100&section=footer)
 
 </div>
