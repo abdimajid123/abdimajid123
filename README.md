@@ -55,14 +55,6 @@ Email:    abdimajidabdirahman35@gmail.com
 
 ---
 
-## 📌 Featured Project
-
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| [🚗 Somtaana Drivers App](https://github.com/abdimajid123/Somtaana-Drivers-app) | Driver dispatch & delivery mobile app with real-time task management, pickup/drop tracking and earnings dashboard | React Native · Expo · TypeScript · Laravel |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
