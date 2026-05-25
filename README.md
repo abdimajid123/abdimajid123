@@ -1,9 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=7b2ff7,f107a3&height=220&section=header&text=Abdimajid%20Abdirahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Backend%20Engineer&descAlignY=58&descColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&colors=7b2ff7,f107a3&height=250&section=header&text=Abdimajid%20Abdirahman&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=twinkling)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=7b2ff7&style=for-the-badge)](https://github.com/abdimajid123)
-[![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=f107a3)](https://github.com/abdimajid123)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+Engineer+%F0%9F%93%B1;Backend+Engineer+%E2%9A%99%EF%B8%8F;Building+Somtaana+%F0%9F%9A%97;Based+in+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abdimajid123&color=7b2ff7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abdimajid123)
+[![GitHub followers](https://img.shields.io/github/followers/abdimajid123?style=for-the-badge&color=f107a3&label=FOLLOWERS)](https://github.com/abdimajid123)
 
 </div>
 
